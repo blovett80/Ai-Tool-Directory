@@ -1,4 +1,5 @@
-Open Source Ai Tools Directory
+1848
+Open Source Ai Tools Direc
 > A community-maintained, category-wise directory of AI tools for students, developers, companies, researchers, creators, and professionals.
 
 **Browse:** Free & freemium tools • Open-source projects • Study & research • Coding • Business • Design • Data • Cybersecurity • Automation
@@ -1847,6 +1848,7 @@ free AI tools · best AI tools for students · AI coding assistants · open-sour
 - [Rephrase.ai](https://www.rephrase.ai/)
 - [Vidnoz AI](https://www.vidnoz.com/)
 - [FlexClip AI](https://www.flexclip.com/)
+- [PixelDojo](https://pixeldojo.ai)
 
 ## Writing Assistant
 
