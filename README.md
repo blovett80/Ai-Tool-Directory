@@ -1,5 +1,4 @@
-1848
-Open Source Ai Tools Direc
+Open Source Ai Tools Directory
 > A community-maintained, category-wise directory of AI tools for students, developers, companies, researchers, creators, and professionals.
 
 **Browse:** Free & freemium tools • Open-source projects • Study & research • Coding • Business • Design • Data • Cybersecurity • Automation
